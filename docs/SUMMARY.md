@@ -22,6 +22,7 @@
   * [Quadra de Areia](reservas/nossos-espacos-ambientes/quadra-de-areia.md)
 * [Política de Cancelamento e Reagendamento](reservas/politica-de-cancelamento-e-reagendamento.md)
 * [Especial de Aniversário](reservas/especial-de-aniversario.md)
+* [Eventos Fechados (Formaturas, Casamentos e Cia)](reservas/eventos-fechados.md)
 
 ## REGRAS DA CASA
 

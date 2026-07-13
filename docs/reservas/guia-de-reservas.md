@@ -6,6 +6,8 @@ Nosso espaço proporciona a melhor vista do pôr do sol de Porto Alegre, com ár
 
 <a href="nossos-espacos-ambientes/" class="button primary">Conheça nossos ambientes</a>
 
+<a href="eventos-fechados.md" class="button primary">Vai fazer um evento fechado? Veja aqui</a>
+
 
 
 {% include "../.gitbook/includes/valores-e-formas-pagamento-reservas.md" %}

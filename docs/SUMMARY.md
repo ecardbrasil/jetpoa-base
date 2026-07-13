@@ -27,3 +27,4 @@
 ## REGRAS DA CASA
 
 * [O que Pode e Não Pode](regras-da-casa/o-que-pode-e-nao-pode.md)
+* [Regras Náuticas e do Flutuante](regras-da-casa/regras-nauticas-e-flutuante.md)

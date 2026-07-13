@@ -2,6 +2,10 @@
 
 A Jetpoa proporciona a melhor vista do pôr do sol de Porto Alegre, com espaços versáteis que atendem a eventos de todos os tamanhos. Nossas áreas podem ter a capacidade aumentada conforme a necessidade, mediante a reserva de lounges ou mesas adicionais e disponibilidade da casa.
 
+{% hint style="info" %}
+**Está buscando exclusividade total?** Se você quer reservar toda a Jetpoa com exclusividade (nenhum outro cliente na casa durante seu evento), conheça nossa opção de [Eventos Fechados](../eventos-fechados.md). Lá você terá acesso a todos os nossos ambientes: lounge, bistró, deck, tenda, churrasqueiras, quadra de areia e playground kids — tudo isso reservado só para você e seus convidados.
+{% endhint %}
+
 ***
 
 ### Resumo Áreas e Valores

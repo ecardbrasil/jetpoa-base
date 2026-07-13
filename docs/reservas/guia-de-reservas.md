@@ -4,6 +4,12 @@ Desfrute com seus amigos e convidados de um momento ímpar, às margens do Rio J
 
 Nosso espaço proporciona a melhor vista do pôr do sol de Porto Alegre, com áreas diversas e versáteis que atendem a eventos de todos os tamanhos.
 
+{% hint style="info" %}
+**Este guia é para reservas comuns** (lounge, mesa, churrasqueira) com a Jetpoa aberta ao público. As modalidades de comanda, valores e políticas descritas aqui se aplicam a esse tipo de reserva.
+
+**Quer fazer um evento com exclusividade total?** Visite [Eventos Fechados](eventos-fechados.md) — lá você encontra informações sobre reservar toda a Jetpoa só para você e seus convidados.
+{% endhint %}
+
 <a href="nossos-espacos-ambientes/" class="button primary">Conheça nossos ambientes</a>
 
 <a href="eventos-fechados.md" class="button primary">Vai fazer um evento fechado? Veja aqui</a>

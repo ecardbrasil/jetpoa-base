@@ -22,3 +22,5 @@ O fornecimento, entrega ou permissão de consumo de bebida alcoólica a menores 
 * d) Responsabilidade Civil e Multas: Caso a JETPOA sofra qualquer autuação, multa administrativa ou processo judicial decorrente da negligência do CONTRATANTE ou de seus convidados em relação a esta norma, o CONTRATANTE responderá solidariamente, obrigando-se a ressarcir a casa de todos os prejuízos (Direito de Regresso).
 
 </details>
+
+**Taxa de rolha:** mediante autorização da gerência, é permitida a entrada de vinhos ou espumantes, mediante pagamento de uma taxa de rolha de **R$ 100,00 por garrafa (750ml)**. As garrafas devem ser apresentadas na recepção para contagem e pagamento antes da abertura.

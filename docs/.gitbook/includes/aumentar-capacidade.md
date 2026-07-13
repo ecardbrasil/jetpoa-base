@@ -34,6 +34,8 @@ Amplie a capacidade máxima complementando sua reserva com outras opções:
 > \
 > Para conferir os valores, capacidades e mais informações acesse nossa [página de espaços](../../reservas/nossos-espacos-ambientes/).&#x20;
 
+**Alternativa: Taxa de Excedente**
 
+Caso não haja espaço adicional disponível para combinar, e havendo viabilidade operacional, a Jetpoa pode permitir a entrada de convidados extras mediante o pagamento de uma taxa de **R$ 50,00 por pessoa**. Esse valor é revertido integralmente em crédito de consumação individual para o convidado e deve ser pago na entrada. A Jetpoa se reserva o direito de bloquear o acesso de excedentes caso a lotação comprometa a circulação, o serviço ou a segurança do espaço.
 
 </details>

@@ -40,28 +40,33 @@ Os limites por espaço devem ser respeitados mesmo dentro de um evento fechado �
 
 ### 💰 Investimento e Condições
 
-* **Valor da reserva do espaço:** R$ 14.000,00 (sujeito a confirmação e ajustes conforme tamanho/necessidades)
+#### Consumo Mínimo por Período
 
-* **Dias de semana (segunda a sexta):** o valor da reserva é 100% revertido em consumação.
-  * Exemplo: você investe R$ 14.000, que vira crédito de R$ 14.000 para consumo no cardápio (bebidas, comida, etc.).
+O evento fechado é precificado com **consumo mínimo garantido** — tudo que for consumido acima desse mínimo é faturado normalmente:
 
-* **Finais de semana e feriados:** o valor é referente apenas à locação do espaço, não incluindo consumação.
+| Período | Consumo Mínimo | Descrição |
+|---------|---|---|
+| **Sexta a Domingo** | R$ 10.000 | Bebidas, comida, atendimento e staff básico |
+| **Quinta-feira** | R$ 8.000 | 20% desconto (pré-fim de semana) |
+| **Segunda a Quarta** | R$ 6.000 | 40% desconto (dias de baixa procura) |
 
-* **Sinal de Garantia:** 
-  * Valor e percentual **a definir com a equipe Jetpoa** (entre em contato para confirmar).
-  * O sinal efetiva a reserva e bloqueia a data.
+**Exemplo prático:**
+* Você reserva para sexta-feira com consumo mínimo de R$ 10.000
+* Se consumir R$ 12.500 → você paga R$ 12.500
+* Se consumir R$ 9.500 → você paga R$ 10.000 (o mínimo)
 
-* **Taxa de Serviço:**
-  * Taxa sugerida de 10% sobre o total consumido, paga à parte.
-  * Confirmar as condições exatas na cotação.
+* **Sinal de Garantia (Crédito de Consumo):** 
+  * 30% do consumo mínimo efetiva a reserva e bloqueia a data.
+  * O sinal é **convertido em crédito de consumo** no dia do evento — tudo que você consumir será descontado desse valor.
+  * Exemplo: evento sexta-feira = sinal de R$ 3.000. Se você consumir R$ 12.000, paga apenas R$ 9.000 (R$ 3.000 já foram pagos).
 
-* **Modelo de Consumação (dias de semana, quando 100% reverte):**
-  * **A ser definido com a equipe Jetpoa** — o modelo de comanda única/individual e a forma de soma de consumo dos convidados será confirmado no orçamento.
+* **Consumo do Mínimo:**
+  * O consumo mínimo pode ser utilizado em bebidas, comida, atendimento extra, garçons adicionais e demais serviços da Jetpoa, conforme sua necessidade.
 
 * **Saldo não Consumido:**
-  * Conforme regra geral da Jetpoa, saldo não consumido no dia do evento **não é reembolsado** e fica retido como taxa de locação.
+  * Saldo não consumido no dia do evento **não é reembolsado** — fica retido como investimento na exclusividade do espaço.
 
-* **Orçamento final sob consulta**, ajustado conforme o tamanho, necessidades e data do evento.
+* **Orçamento personalizado**, detalhando horário, número de convidados, data e necessidades especiais — entre em contato para receber sua cotação.
 
 ### 🕒 Horário
 
